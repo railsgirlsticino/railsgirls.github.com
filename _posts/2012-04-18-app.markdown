@@ -35,7 +35,7 @@ Dove puoi far partire rails server ed eseguire altri comandi.
 
 ### Importante
 
-It is important that you select the instructions specific to your operating system - the commands you need to run on a Windows computer are slightly different to Mac or Linux. If you're having trouble check the Operating System switcher at the bottom of the commands.
+È importante che tu selezioni le istruzioni relativa al tuo sistema operativo - i comandi da eseguire con un pc Windows sono leggermente differenti da quelli per Mac o Linux.If you're having trouble check the Operating System switcher at the bottom of the commands.
 
 ## *1.*Creating the application
 
